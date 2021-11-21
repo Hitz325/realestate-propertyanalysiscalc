@@ -2,25 +2,25 @@
 Four-Square Method for analyzing rental property deals.
 
 **First Square**                
- Income(per month):             
-      Rent                           
-      Laundry                   
-      Stroage                   
+ Income(per month):
+      Rent 
+      Laundry
+      Stroage 
     + Misc
   -------------
 Total Monthly Income(TMI)
 Total Annual Income(TAM) = TAI*12
       
 **Second Square**                
-    Expenses:               
-      Insurance                        
-      Utilitites                       
-      HOA                              
-      Lawn Care                      
-      Vacancy                          
-      Repairs                       
-      Capital Expenditures          
-      Property Managment             
+    Expenses:
+      Insurance
+      Utilitites 
+      HOA 
+      Lawn Care
+      Vacancy
+      Repairs
+      Capital Expenditures
+      Property Managment
     + Mortgage
   -------------
 Total Monthly Expenses(TME)
