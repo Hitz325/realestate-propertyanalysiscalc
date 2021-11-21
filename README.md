@@ -1,7 +1,7 @@
 # realestate-propertyanalysiscalc
 Four-Square Method for analyzing rental property deals.
 
-**First Square**                
+##**First Square**                
  Income(per month):
     + Rent 
     + Laundry
