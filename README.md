@@ -8,10 +8,10 @@ In the future I would like to make this project persistent so that the user can 
 
 ## First Square                
  Income(per month):
-    + Rent 
-    + Laundry
-    + Stroage 
-    + Misc
+     Rent 
+     Laundry
+     Stroage 
+   + Misc
   -------------
 Total Monthly Income(TMI)
 Total Annual Income(TAM) = TAI*12
