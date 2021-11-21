@@ -6,7 +6,7 @@ The purpose of this project is for the form to take in the following figures and
 In the future I would like to make this project persistent so that the user can go back and compare to previous analyses. Possibly considering authenitcation and bringing in some google API's to show addresses on a map.
 
 
-##First Square                
+## First Square                
  Income(per month):
     + Rent 
     + Laundry
@@ -16,7 +16,7 @@ In the future I would like to make this project persistent so that the user can 
 Total Monthly Income(TMI)
 Total Annual Income(TAM) = TAI*12
       
-##Second Square
+## Second Square
     Expenses:
       Insurance
       Utilitites 
@@ -30,12 +30,12 @@ Total Annual Income(TAM) = TAI*12
   -------------
 Total Monthly Expenses(TME)
 
-##Third Square
+## Third Square
 Monthly Cash Flow(MCF):
 TMI-TME=MCF
 Annual Cash Flow(ACF) = MCF*12
 
-##Fourth Square
+## Fourth Square
 Cash on Cash Return on Investment(COCROI):
      Down Payment
      Closing Costs
