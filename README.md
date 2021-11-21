@@ -3,9 +3,9 @@ Four-Square Method for analyzing rental property deals.
 
 **First Square**                
  Income(per month):
-      Rent 
-      Laundry
-      Stroage 
+    + Rent 
+    + Laundry
+    + Stroage 
     + Misc
   -------------
 Total Monthly Income(TMI)
